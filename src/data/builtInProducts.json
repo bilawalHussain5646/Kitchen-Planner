@@ -1,0 +1,41 @@
+{
+  "heroTitle": "The updated lineup of LG's built-in appliances",
+  "heroSubtitle": "LG's built-in home appliances guarantee the best performance and functionality, bringing convenience to your kitchen and making your cooking process professional!",
+  "heroAlt": "LG Built-in Appliances Banner",
+  "noProductsText": "No Products Found",
+  "buyNow": "Buy Now",
+  "categories": [
+    {
+      "id": "all",
+      "name": "All"
+    },
+    {
+      "id": "oven",
+      "name": "Oven"
+    },
+    {
+      "id": "cooktop",
+      "name": "Cooktop"
+    },
+    {
+      "id": "gas",
+      "name": "Gas Hob"
+    },
+    {
+      "id": "hood",
+      "name": "Hood"
+    },
+    {
+      "id": "mwo",
+      "name": "MWO"
+    },
+    {
+      "id": "refrigerator",
+      "name": "Refrigerator"
+    },
+    {
+      "id": "dishwasher",
+      "name": "Dishwasher"
+    }
+  ]
+}

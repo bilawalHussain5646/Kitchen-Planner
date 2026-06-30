@@ -1,0 +1,1 @@
+const t='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/smart-alerts-lg-thinq-app.html"}}';export{t as default};

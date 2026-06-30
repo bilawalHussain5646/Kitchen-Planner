@@ -1,0 +1,1 @@
+const e='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/upgrade-your-kitchen-for-winter-lg-induction-hob.html"}}';export{e as default};

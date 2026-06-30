@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "title": "Premium Kitchen Built-in Appliances | LG Kitchen Planner",
+    "description": "Transform your culinary space with LG's premium built-in hobs, ThinQ extraction hoods, and smart InstaView ovens."
+  },
+  "hero": {
+    "title": "LG Built-in Kitchen Planner",
+    "subtitle": "Immerse Yourself in the LG Built-in Experience: Explore Real-Time Kitchen Interactions.",
+    "experienceButton": "Experience Now",
+    "quoteButton": "Request Enterprise Quote"
+  },
+  "blog": {
+    "title": "Kitchen Blog",
+    "subtitle": "Discover Delicious Recipes, Expert Tips, and Inspiring Kitchen Stories with LG Built-in Experience",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "installationGuides": {
+      "cardTitle": "Master Your Kitchen: Step-by-Step Installation Guides for LG Built-In Products",
+      "description": "Transform Your Space with Ease Expert Installation Tips and Tricks for a Seamless LG Built-In Experience",
+      "button": "Learn More",
+      "imageAlt": "LG Installation Guides"
+    },
+    "eCatalogue": {
+      "cardTitle": "LG Built-In Kitchen Experience E-Catalogue",
+      "description": "Explore Cutting-Edge Appliances, Innovative Recipes, and Expert Tips for the Ultimate Culinary Journey",
+      "button": "Learn More",
+      "imageAlt": "LG E-Catalogue"
+    }
+  },
+  "faq": {
+    "sectionTitle": "Frequently Asked Questions",
+    "sectionDescription": "Explore our Frequently Asked Questions for LG Built-in Appliances, providing quick insights and solutions to ensure seamless operation and satisfaction.",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "continueReading": "Continue Reading",
+    "items": [
+      {
+        "questionUser": {
+          "name": "Hussian",
+          "role": "Baking Expert",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/henry.png",
+          "avatarAlt": "Hussian"
+        },
+        "question": "What if I want to change kitchen with LG built-in products?",
+        "answerUser": {
+          "name": "Customer Care",
+          "role": "LG Built-in Appliances Expert",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/Life's%20Good%20Logo.png",
+          "avatarAlt": "Customer Care"
+        },
+        "answer": "If it is a built-in product (Gas Oven, Cooking hob), it must be installed according to the kitchen furniture. so you should contact a kitchen furniture company or interior design company to check the type and size of the kitchen furniture."
+      },
+      {
+        "questionUser": {
+          "name": "Fatima",
+          "role": "Home Entertainer",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/jj.png",
+          "avatarAlt": "Fatima"
+        },
+        "question": "Can’t I just use the built-in dishwasher without combining to furniture?",
+        "answerUser": {
+          "name": "Customer Care",
+          "role": "LG Built-in Appliances Expert",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/Life's%20Good%20Logo.png",
+          "avatarAlt": "Customer Care"
+        },
+        "answer": "There is no problem at all in using the product.However, since built-in products are manufactured to be combined with furniture, if the furniture is not combined, the body itself does not come out as a finished product, making it visually unsightly. \nPlease keep this in mind."
+      },
+      {
+        "questionUser": {
+          "name": "Khalid",
+          "role": "Master Chef",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/nora.png",
+          "avatarAlt": "Khalid"
+        },
+        "question": "Is it impossible to replace it once installed?",
+        "answerUser": {
+          "name": "Customer Care",
+          "role": "LG Built-in Appliances Expert",
+          "avatar": "https://lgkitchenplanner.com/sa_en/assets/images/faq/Life's%20Good%20Logo.png",
+          "avatarAlt": "Customer Care"
+        },
+        "answer": "Replacement is possible after installation. You can reinstall the product as long as the built-in installation space is secured."
+      }
+    ]
+  },
+  "recommendedProducts": {
+    "title": "Recommended Products",
+    "viewAll": "View All",
+    "buyNow": "Buy Now"
+  },
+  "kitchenLayouts": {
+    "sectionTitle": "Explore Kitchen Layouts",
+    "sectionSubtitle": "Discover how LG built-in appliances fit beautifully into every kitchen design."
+  }
+}

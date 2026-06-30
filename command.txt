@@ -1,0 +1,8 @@
+# Run from project root after npm run build
+foreach ($locale in @("sa_en","sa_ar")) {
+    Get-ChildItem "out\$locale" -Directory -Recurse | ForEach-Object {
+        $html = $_.FullName + ".html"
+        $index = Join-Path $_.FullName "index.html"
+        if ((Test-Path $html) -and !(Test-Path $index)) { Copy-Item $html $index }
+    }
+}

@@ -1,0 +1,189 @@
+{
+  "layoutData": {
+    "oven": [
+      {
+        "title": "Optimize Your Single Wall Kitchen with LG's Sleek Built-In Oven",
+        "description": "Maximize space and functionality with our powerful built-in oven, perfect for compact single wall kitchens.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Perfect Your L-Shaped Kitchen with LG's Advanced Built-In Oven",
+        "description": "Achieve culinary excellence with our versatile built-in oven, designed to fit seamlessly into L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Transform Your Island Kitchen with LG's Stylish Built-In Oven",
+        "description": "Enhance your cooking experience with our sleek built-in oven, ideal for modern island kitchen layouts.",
+        "type": "Island"
+      },
+      {
+        "title": "Elevate Your U-Shaped Kitchen with LG's Innovative Built-In Oven",
+        "description": "Bring convenience and style to your U-shaped kitchen with our cutting-edge built-in oven.",
+        "type": "U-Shaped"
+      }
+    ],
+    "gas": [
+      {
+        "title": "Enhance Your Single Wall Kitchen with LG's Advanced Built-In Gas Hob",
+        "description": "Enjoy precise cooking control in your single wall kitchen with our state-of-the-art built-in gas hob.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Upgrade Your L-Shaped Kitchen with LG's Versatile Built-In Gas Hob",
+        "description": "Cook with confidence and precision using our innovative gas hob, designed for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Perfect Your Island Kitchen with LG's Efficient Built-In Gas Hob",
+        "description": "Achieve culinary perfection with our sleek and efficient gas hob, ideal for island kitchen layouts.",
+        "type": "Island"
+      },
+      {
+        "title": "Transform Your U-Shaped Kitchen with LG's Reliable Built-In Gas Hob",
+        "description": "Experience unmatched cooking versatility and performance with our built-in gas hob, perfect for U-shaped kitchens.",
+        "type": "U-Shaped"
+      }
+    ],
+    "hood": [
+      {
+        "title": "Optimize Your Single Wall Kitchen with LG's Stylish Built-In Hood",
+        "description": "Keep your single wall kitchen fresh and clean with our efficient built-in hood.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Enhance Your L-Shaped Kitchen with LG's Elegant Built-In Hood",
+        "description": "Experience superior ventilation and style with our sleek built-in hood, perfect for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Transform Your Island Kitchen with LG's Powerful Built-In Hood",
+        "description": "Ensure a clean and odor-free cooking environment with our advanced built-in hood, ideal for island kitchens.",
+        "type": "Island"
+      },
+      {
+        "title": "Elevate Your U-Shaped Kitchen with LG's Modern Built-In Hood",
+        "description": "Maintain a fresh kitchen atmosphere with our innovative built-in hood, designed for U-shaped layouts.",
+        "type": "U-Shaped"
+      }
+    ],
+    "electric": [
+      {
+        "title": "Maximize Your Single Wall Kitchen with LG's Efficient Built-In Electric Radiant",
+        "description": "Enjoy quick and even cooking in your single wall kitchen with our advanced built-in electric radiant.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Enhance Your L-Shaped Kitchen with LG's Reliable Built-In Electric Radiant",
+        "description": "Cook with precision and ease using our high-performance electric radiant, perfect for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Upgrade Your Island Kitchen with LG's Sleek Built-In Electric Radiant",
+        "description": "Experience consistent cooking results with our stylish built-in electric radiant, ideal for island kitchens.",
+        "type": "Island"
+      },
+      {
+        "title": "Transform Your U-Shaped Kitchen with LG's Innovative Built-In Electric Radiant",
+        "description": "Achieve culinary perfection with our cutting-edge electric radiant, designed for U-shaped kitchen layouts.",
+        "type": "U-Shaped"
+      }
+    ],
+    "microwave": [
+      {
+        "title": "Enhance Your Single Wall Kitchen with LG's Smart Built-In Microwave Oven",
+        "description": "Enjoy quick and convenient cooking with our advanced built-in microwave oven, perfect for single wall kitchens.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Upgrade Your L-Shaped Kitchen with LG's Versatile Built-In Microwave Oven",
+        "description": "Achieve culinary efficiency with our innovative built-in microwave oven, ideal for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Optimize Your Island Kitchen with LG's Stylish Built-In Microwave Oven",
+        "description": "Experience the convenience and style of our sleek built-in microwave oven, perfect for island kitchens.",
+        "type": "Island"
+      },
+      {
+        "title": "Transform Your U-Shaped Kitchen with LG's High-Tech Built-In Microwave Oven",
+        "description": "Enjoy advanced cooking features with our smart built-in microwave oven, designed for U-shaped kitchen layouts.",
+        "type": "U-Shaped"
+      }
+    ],
+    "refrigerator": [
+      {
+        "title": "Enhance Your Single Wall Kitchen with LG's Smart InstaView",
+        "description": "Experience the convenience of a modern kitchen with our innovative InstaView, perfect for single wall layouts.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Upgrade Your L-Shaped Kitchen with LG's Advanced InstaView",
+        "description": "Keep your kitchen organized and stylish with our sleek InstaView, designed for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Optimize Your Island Kitchen with LG's Innovative InstaView",
+        "description": "Enjoy quick access to your essentials with our smart InstaView, ideal for island kitchen layouts.",
+        "type": "Island"
+      },
+      {
+        "title": "Transform Your U-Shaped Kitchen with LG's Cutting-Edge InstaView",
+        "description": "Bring modern convenience and style to your U-shaped kitchen with our advanced InstaView.",
+        "type": "U-Shaped"
+      }
+    ],
+    "dishwasher": [
+      {
+        "title": "Enhance Your Single Wall Kitchen with LG's Efficient Built-In Dishwasher",
+        "description": "Keep your single wall kitchen tidy with our high-performance built-in dishwasher.",
+        "type": "Single Wall"
+      },
+      {
+        "title": "Upgrade Your L-Shaped Kitchen with LG's Powerful Built-In Dishwasher",
+        "description": "Experience superior cleaning power and convenience with our advanced built-in dishwasher, ideal for L-shaped kitchens.",
+        "type": "L-Shaped"
+      },
+      {
+        "title": "Optimize Your Island Kitchen with LG's Sleek Built-In Dishwasher",
+        "description": "Achieve spotless results with our stylish and efficient built-in dishwasher, perfect for island kitchens.",
+        "type": "Island"
+      },
+      {
+        "title": "Transform Your U-Shaped Kitchen with LG's Innovative Built-In Dishwasher",
+        "description": "Enjoy effortless cleaning with our cutting-edge built-in dishwasher, designed for U-shaped kitchen layouts.",
+        "type": "U-Shaped"
+      }
+    ]
+  },
+  "layoutSuffix": "Layout",
+  "categories": [
+    {
+      "id": "oven",
+      "label": "Oven"
+    },
+    {
+      "id": "gas",
+      "label": "Gas Hob"
+    },
+    {
+      "id": "hood",
+      "label": "Chimney Hood"
+    },
+    {
+      "id": "electric",
+      "label": "Electric Hob"
+    },
+    {
+      "id": "microwave",
+      "label": "Microwave"
+    },
+    {
+      "id": "refrigerator",
+      "label": "Refrigerator"
+    },
+    {
+      "id": "dishwasher",
+      "label": "Dishwasher"
+    }
+  ]
+}

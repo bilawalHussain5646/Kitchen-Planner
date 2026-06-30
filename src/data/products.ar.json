@@ -1,0 +1,122 @@
+{
+  "oven": [
+    {
+      "id": "oven-1",
+      "code": "WSED7665B",
+      "name": "LG InstaView Oven 76 Liters A++",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-1.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/ovens/WSED7665B.pdf"
+    },
+    {
+      "id": "oven-2",
+      "code": "WSED7613S",
+      "name": "LG InstaView Oven with Steam & Sous-Vide",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-2.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-2.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-2-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/ovens/WSED7613S.pdf"
+    },
+    {
+      "id": "oven-3",
+      "code": "WSED7667M",
+      "name": "LG InstaView Oven 76 Liters A++",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-3.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-3.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-3-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/ovens/WSED7667M.pdf"
+    },
+    {
+      "id": "oven-4",
+      "code": "WSEZM7225S2",
+      "name": "Silver Built-in Oven",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-4.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-4.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-oven-4-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/ovens/WSEZM7225S2.pdf"
+    }
+  ],
+  "gas": [
+    {
+      "id": "gas-1",
+      "code": "HU641BBG",
+      "name": "LG built-in gas panel",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-1.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hob-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hob-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hobs/HU641BBG.pdf"
+    },
+    {
+      "id": "gas-2",
+      "code": "CG5Z3626S",
+      "name": "LG Built-in 900 Gas Cooktop, 5 Burners",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-2.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hob-2.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hob-2-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hobs/HU641BBG-1.pdf"
+    }
+  ],
+  "hood": [
+    {
+      "id": "hood-1",
+      "code": "HCEZ2415S2",
+      "name": "Hood",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-1.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hoods/HCEZ2415S2.pdf"
+    },
+    {
+      "id": "hood-2",
+      "code": "HC7Z2425S",
+      "name": "LG Hood 60cm, With Touch Control",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-2.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-2.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-2-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hoods/HC7Z2425S.pdf"
+    },
+    {
+      "id": "hood-3",
+      "code": "HC7Z3625S",
+      "name": "LG Hood 90cm, With Touch Control",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-3.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-3.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-hood-3-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hoods/HC7Z3625S.pdf"
+    }
+  ],
+  "electric": [
+    {
+      "id": "elec-1",
+      "code": "CBEZ2414B",
+      "name": "4 burners radiant hob, 60cm, burner timer, multi-touch control, black",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-3.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-electric-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-electric-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/hobs/CBEZ2414B.pdf"
+    }
+  ],
+  "microwave": [
+    {
+      "id": "micro-1",
+      "code": "MH8265DIS",
+      "name": "Microwave oven 42L, Smart Inverter",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/mw-1.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-mw-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-mw-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/oven/MH8265DIS.pdf"
+    }
+  ],
+  "dishwasher": [
+    {
+      "id": "dish-1",
+      "code": "DBC425TS",
+      "name": "LG QuadWash™ Built-in Steam",
+      "image": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/dw-1.png",
+      "guideSvg": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-dw-1.svg",
+      "guideSvgMobile": "https://www.lgkitchenplanner.com/sa_en/assets/images/installation_guides/installation-guide-built-in-dw-1-mb.svg",
+      "pdfUrl": "https://www.lgkitchenplanner.com/sa_en/pdf/dishwasher/DBC425TS.pdf"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "heroTitle": "التشكيلة المحدّثة من أجهزة LG المدمجة",
+  "heroSubtitle": "تضمن أجهزة LG المنزلية المدمجة أفضل أداء ووظائف، مما يجلب الراحة إلى مطبخك ويجعل عملية الطهي احترافية!",
+  "heroAlt": "لافتة أجهزة LG المدمجة",
+  "buyNow": "اشترِ الآن",
+  "noProductsText": "ا توجد منتجات",
+  "categories": [
+    {
+      "id": "all",
+      "name": "الكل"
+    },
+    {
+      "id": "oven",
+      "name": "فرن"
+    },
+    {
+      "id": "cooktop",
+      "name": "موقد كهربائي"
+    },
+    {
+      "id": "gas",
+      "name": "موقد غاز"
+    },
+    {
+      "id": "hood",
+      "name": "شفاط"
+    },
+    {
+      "id": "mwo",
+      "name": "MWO"
+    },
+    {
+      "id": "refrigerator",
+      "name": "Refrigerator"
+    },
+    {
+      "id": "dishwasher",
+      "name": "غسالة صحون"
+    }
+  ]
+}

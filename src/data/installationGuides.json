@@ -1,0 +1,32 @@
+{
+  "title": "Installation Guides",
+  "subtitle": "Step-by-step LG Built-in Appliances installation guides: Ensure flawless integration and performance in your kitchen with ease.",
+  "heroAlt": "Installation Guides Brochure Collage",
+  "downloadPdf": "Download Installation PDF",
+  "categories": [
+    {
+      "id": "oven",
+      "label": "Oven"
+    },
+    {
+      "id": "gas",
+      "label": "Gas Hob"
+    },
+    {
+      "id": "hood",
+      "label": "Chimney Hood"
+    },
+    {
+      "id": "electric",
+      "label": "Electric Hob"
+    },
+    {
+      "id": "microwave",
+      "label": "Microwave"
+    },
+    {
+      "id": "dishwasher",
+      "label": "Dishwasher"
+    }
+  ]
+}

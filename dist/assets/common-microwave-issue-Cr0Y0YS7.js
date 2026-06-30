@@ -1,0 +1,1 @@
+const e='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/common-microwave-issue.html"}}';export{e as default};

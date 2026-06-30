@@ -1,0 +1,1 @@
+const e='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/exploring-thinq-recipes-and-smart-cooking-modes-design-for-lighter-summer-meals.html"}}';export{e as default};

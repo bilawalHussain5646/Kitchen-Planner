@@ -1,0 +1,67 @@
+{
+  "newsletterTitle": "Stay Connected",
+  "newsletterPlaceholder": "Enter your email",
+  "newsletterButton": "Sign Up",
+  "mainMenu": {
+    "title": "Main Menu",
+    "links": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Kitchen Planner",
+        "href": "https://lgkitchenplanner.com/sj-built-in-kitchen-planner/"
+      },
+      {
+        "label": "Products",
+        "href": "/built-in-products"
+      },
+      {
+        "label": "Contact",
+        "href": "https://lgkitchenplanner.com/sa_en/query/"
+      },
+      {
+        "label": "FAQ",
+        "href": "/faq"
+      }
+    ]
+  },
+  "customerSupport": {
+    "title": "Customer Support",
+    "sections": [
+      {
+        "label": "Built-in Appliances",
+        "items": [
+          "Toll-free: 800 126 9999",
+          "WhatsApp: 53 008 4411"
+        ]
+      },
+      {
+        "label": "Sales & Promotions",
+        "items": [
+          "+966 55 221 8856"
+        ]
+      }
+    ]
+  },
+  "address": {
+    "title": "Address",
+    "text": "LG Electronics Saudi Arabia LLC, RASA - 6360, Al Thumamah Branch 3307, Al Sahafah Dist, Riyadh - 13315, Kingdom of Saudi Arabia",
+    "socials": [
+      {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/LGSaudi"
+      },
+      {
+        "name": "X",
+        "href": "https://twitter.com/LGeSaudi"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://www.youtube.com/c/LGSaudi"
+      }
+    ]
+  },
+  "copyright": "© 2026 LG Kitchen Planner. All rights reserved."
+}

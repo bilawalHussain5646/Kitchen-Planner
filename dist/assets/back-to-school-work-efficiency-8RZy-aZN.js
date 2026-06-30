@@ -1,0 +1,1 @@
+const e='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/back-to-school-work-efficiency.html"}}';export{e as default};

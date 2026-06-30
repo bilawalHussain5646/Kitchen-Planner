@@ -1,0 +1,67 @@
+{
+  "newsletterTitle": "ابق على تواصل",
+  "newsletterPlaceholder": "أدخل بريدك الإلكتروني",
+  "newsletterButton": "اشترك",
+  "mainMenu": {
+    "title": "القائمة الرئيسية",
+    "links": [
+      {
+        "label": "الرئيسية",
+        "href": "/"
+      },
+      {
+        "label": "مخطط المطبخ",
+        "href": "https://lgkitchenplanner.com/sj-built-in-kitchen-planner/"
+      },
+      {
+        "label": "المنتجات",
+        "href": "/built-in-products"
+      },
+      {
+        "label": "اتصل بنا",
+        "href": "https://lgkitchenplanner.com/sa_ar/query/"
+      },
+      {
+        "label": "الأسئلة الشائعة",
+        "href": "/faq"
+      }
+    ]
+  },
+  "customerSupport": {
+    "title": "دعم العملاء",
+    "sections": [
+      {
+        "label": "الأجهزة المدمجة",
+        "items": [
+          "الخط المجاني: 800 126 9999",
+          "واتساب: 53 008 4411"
+        ]
+      },
+      {
+        "label": "المبيعات والعروض",
+        "items": [
+          "+966 55 221 8856"
+        ]
+      }
+    ]
+  },
+  "address": {
+    "title": "العنوان",
+    "text": "إل جي إلكترونيكس السعودية العربية المحدودة، RASA - 6360، فرع الثمامة 3307، حي الصحافة، الرياض - 13315، المملكة العربية السعودية",
+    "socials": [
+      {
+        "name": "Facebook",
+        "href": "#"
+      },
+      {
+        "name": "X",
+        "href": "#"
+      },
+      {
+        "name": "YouTube",
+        "href": "#"
+      }
+    ]
+  },
+  "copyright": "© 2025 مخطط مطبخ LG. جميع الحقوق محفوظة."
+}

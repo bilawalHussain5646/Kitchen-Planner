@@ -1,0 +1,34 @@
+{
+  "logo": {
+    "url": "https://lgkitchenplanner.com/sa_en/logo-lg-100-44.svg",
+    "alt": "LG Logo"
+  },
+  "navLinks": [
+    {
+      "label": "Kitchen Blog",
+      "href": "/kitchen-blog",
+      "active": false
+    },
+    {
+      "label": "Installation Guide",
+      "href": "/installation-guides",
+      "active": false
+    },
+    {
+      "label": "E-Catalogue",
+      "href": "/e-catalogue",
+      "active": false
+    },
+    {
+      "label": "Built-in Products",
+      "href": "/built-in-products",
+      "active": false
+    },
+    {
+      "label": "FAQ",
+      "href": "/faq",
+      "active": false
+    }
+  ],
+  "connectButtonText": "Experience Now"
+}

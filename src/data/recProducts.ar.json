@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "code": "HCEZ2426S",
+    "name": "شفاط عرض 60 سم بشفط قوي مع التحكم باللمس",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-2.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/hoods/hcez2426s/buy/"
+  },
+  {
+    "id": 2,
+    "code": "CBIZ2435B",
+    "name": "موقد ال جي الكهربائي المدمج 60 سم | 4 شعلات",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob/CBIZ3035B.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/cooktops/cbiz2435b/buy/"
+  },
+  {
+    "id": 3,
+    "code": "CBGZ2414S",
+    "name": "سطح غاز مدمج 24 بوصة من إل جي بتقنية UltraHeat لأداء طهي قوي وتوزيع حرارة متساوٍ",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob-gas/CBGZ2414S.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/cooktops/cg5z2414sj/buy/"
+  },
+  {
+    "id": 4,
+    "code": "WSED7665B",
+    "name": "فرن مدمج 76 لتر | قلي بالهواء | سوس فيد",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-1.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/ovens/wsed7665b/buy/"
+  },
+  {
+    "id": 5,
+    "code": "WSED7613S",
+    "name": "فرن مدمج 76 لتر | قلي بالهواء | سوس فيد",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-2.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/ovens/wsed7613s/buy/"
+  },
+  {
+    "id": 6,
+    "code": "WSED7667M",
+    "name": "فرن مدمج 76 لتر | قلي بالهواء | سوس فيد بخار",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-3.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/ovens/wsed7667m/buy/"
+  },
+  {
+    "id": 7,
+    "code": "WSEZM7225S2",
+    "name": "فرن مدمج 72 لتر | طهي متساو|فضى | حجم كبير",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-4.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/ovens/wsezm7225s2/buy/"
+  },
+  {
+    "id": 8,
+    "code": "HU641BBG",
+    "name": "سطح غاز مدمج 60 سم – LG HU641BBG",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-1.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/cooktops/hu641bbg/buy/"
+  },
+  {
+    "id": 9,
+    "code": "CG5Z3626SJ",
+    "name": "موقد غاز مدمج 5 شعلات | تسخين سريع",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob-gas/CG5Z3626SJ.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/cooktops/cg5z3626sj/buy/"
+  },
+  {
+    "id": 10,
+    "code": "CBEZ2414B",
+    "name": "موقد كهربائي مسطح عرض 60 سم لون أسود من إل جي",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-3.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/cooktops/cbez2414b/buy/"
+  },
+  {
+    "id": 11,
+    "code": "HC7Z2425S",
+    "name": "شفاط مطبخ مدمج بتحكم باللمس، ضوضاء أقل، شفط قوي، إنارة LED وتصميم أنيق.",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-2.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/hoods/hc7z2425s/buy/"
+  },
+  {
+    "id": 12,
+    "code": "HC7Z3625S",
+    "name": "شفاط عرض 90 سم بشفط قوي مع التحكم باللمس",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-3.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/hoods/hc7z3625s/"
+  },
+  {
+    "id": 13,
+    "code": "MGB72593F",
+    "name": "ميكروويف من ال جي سعة 25 لتر, ستانليس ستيل, مع لوحة تحكم تعمل باللمس",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/mw-1.png",
+    "link": "https://www.lg.com/sa/built-in-appliances/ovens/mgbz2593f/buy/"
+  }
+]

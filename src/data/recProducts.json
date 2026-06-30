@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "code": "HCEZ2426S",
+    "name": "LG Hood 60 cm with Touch Control",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-2.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/hoods/hcez2426s/buy/"
+  },
+  {
+    "id": 2,
+    "code": "CBIZ2435B",
+    "name": "B700 Series 60 cm Induction Hob",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob/CBIZ3035B.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/cooktops/cbiz2435b/buy/"
+  },
+  {
+    "id": 3,
+    "code": "CBGZ2414S",
+    "name": "B500 Series 60 cm Gas Hob",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob-gas/CBGZ2414S.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/cooktops/cg5z2414sj/"
+  },
+  {
+    "id": 4,
+    "code": "WSED7665B",
+    "name": "LG InstaView Oven 76 Liters A++",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-1.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/ovens/wsed7665b/buy/"
+  },
+  {
+    "id": 5,
+    "code": "WSED7613S",
+    "name": "LG InstaView Oven with Steam & Sous-Vide",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-2.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/ovens/wsed7613s/buy/"
+  },
+  {
+    "id": 6,
+    "code": "WSED7667M",
+    "name": "LG InstaView Oven 76 Liters A++",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-3.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/ovens/wsed7667m/buy/"
+  },
+  {
+    "id": 7,
+    "code": "WSEZM7225S2",
+    "name": "Utilizing smart alerts in the ThinQ app to ensure optimal temperature for preserving festive foods",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/oven-4.png",
+    "link": "https://lgkitchenplanner.com/sa_en/kitchen-blog/smart-alerts-lg-thinq-app.html"
+  },
+  {
+    "id": 8,
+    "code": "HU641BBG",
+    "name": "Upgrade Your Kitchen for Winter: Mastering Comfort Food & Efficiency with LG Induction Hob & ThinQ® Hood Features",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-1.png",
+    "link": "https://lgkitchenplanner.com/sa_en/kitchen-blog/upgrade-your-kitchen-for-winter-lg-induction-hob.html"
+  },
+  {
+    "id": 9,
+    "code": "CG5Z3626SJ",
+    "name": "Built-in Gas hob|5 burners|Power of 4.0kW",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/new-products/hob-gas/CG5Z3626SJ.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/cooktops/cg5z3626sj/"
+  },
+  {
+    "id": 10,
+    "code": "CBEZ2414B",
+    "name": "4 burners radiant hob, 60cm, burner timer, multi-touch control, black",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hob-3.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/cooktops/cbez2414b/buy/"
+  },
+  {
+    "id": 11,
+    "code": "HC7Z2425S",
+    "name": "Built-in Hood 60cm | Touch | LED Lighting",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-2.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/hoods/hc7z2425s/buy/"
+  },
+  {
+    "id": 12,
+    "code": "HC7Z3625S",
+    "name": "LG Hood 90cm, With Touch Control",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/hood-3.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/hoods/hc7z3625s/"
+  },
+  {
+    "id": 13,
+    "code": "MGB72593F",
+    "name": "Microwave oven 42L, Smart Inverter",
+    "img": "https://lgkitchenplanner.com/sa_en/assets/images/installation_guides/products/mw-1.png",
+    "link": "https://www.lg.com/sa_en/built-in-appliances/ovens/mgbz2593f/buy/"
+  }
+]

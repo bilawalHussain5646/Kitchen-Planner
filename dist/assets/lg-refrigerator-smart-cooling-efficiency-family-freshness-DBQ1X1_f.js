@@ -1,0 +1,1 @@
+const e='{"redirect": {"enabled": true, "url": "https://lgkitchenplanner.com/sa_en/kitchen-blog/lg-refrigerator-smart-cooling-efficiency-family-freshness.html"}}';export{e as default};
